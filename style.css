@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;background:#f4f6f9;margin:0}
+.wrap{max-width:900px;margin:auto;padding:24px}
+.cards{display:flex;gap:16px}.card{background:#fff;padding:16px;border-radius:10px;flex:1;box-shadow:0 2px 8px #0002}
+table{width:100%;background:#fff;border-collapse:collapse;margin:20px 0}
+th,td{padding:10px;border-bottom:1px solid #ddd;text-align:left}
+canvas{background:#fff;padding:20px;border-radius:10px}

@@ -1,0 +1,36 @@
+{
+  "gastosFijos": [
+    {
+      "nombre": "Seguro de salud",
+      "anual": 5811.84
+    },
+    {
+      "nombre": "Seguro de vehículo",
+      "anual": 3425.41
+    },
+    {
+      "nombre": "Seguro tarjetas",
+      "anual": 1260.0
+    },
+    {
+      "nombre": "Membresía BAC",
+      "anual": 1428.64
+    },
+    {
+      "nombre": "Platinum Promérica",
+      "anual": 800.0
+    },
+    {
+      "nombre": "Servicio vehículo",
+      "anual": 585.0
+    },
+    {
+      "nombre": "Impuesto circulación",
+      "anual": 133.8
+    },
+    {
+      "nombre": "Teléfono",
+      "anual": 3900.0
+    }
+  ]
+}
