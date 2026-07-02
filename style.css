@@ -4,17 +4,3 @@ body{font-family:Arial,sans-serif;background:#f4f6f9;margin:0}
 table{width:100%;background:#fff;border-collapse:collapse;margin:20px 0}
 th,td{padding:10px;border-bottom:1px solid #ddd;text-align:left}
 canvas{background:#fff;padding:20px;border-radius:10px}
-
-Background      #050816
-Card            rgba(255,255,255,.05)
-Border          rgba(255,255,255,.08)
-
-Primary         #00E5FF
-Secondary       #7C3AED
-
-Success         #00FF88
-Warning         #FFD166
-Danger          #FF4D6D
-
-Text            #F3F4F6
-Subtext         #9CA3AF
